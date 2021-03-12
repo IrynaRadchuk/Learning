@@ -1,6 +1,5 @@
 package TestingCode;
 
-import java.util.ArrayList;
 
 public class Animal {
     int x = 1;
