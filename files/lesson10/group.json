@@ -1,0 +1,20 @@
+{
+  "name":"Class A",
+  "users": [{
+    "age":12,
+    "gender":"male",
+    "name":"Pete"
+  },{
+    "age":15,
+    "gender":"male",
+    "name":"Ted"
+  },{
+    "age":11,
+    "gender":"female",
+    "name":"Mary"
+  },{
+    "age":13,
+    "gender":"unknown",
+    "name":"Alex"
+  }]
+}
